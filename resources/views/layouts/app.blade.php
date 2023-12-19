@@ -1,5 +1,5 @@
-@include('layouts.head')
 <body>
+    @include('layouts.head')
     <header>
         @include('layouts.nav')
     </header>
